@@ -1,0 +1,19 @@
+<!-- File billofmaterial.xml-->
+<Login>
+   <Information>
+      <Username>Mehmet</Username>
+      <Password>12345</Password>
+   </Information>
+   <Information>
+      <Username>John</Username>
+      <Password>54321</Password>
+   </Information>
+   <Information>
+      <Username>Zeynep</Username>
+      <Password>4242</Password>
+   </Information>
+   <Information>
+      <Username>Mary</Username>
+      <Password>1234</Password>
+   </Information>
+</Login>

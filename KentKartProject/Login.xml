@@ -1,0 +1,20 @@
+<!-- File billofmaterial.xml-->
+<Login>
+   <Information ID = "A1">
+      <Username>Mehmet</Username>
+      <Password>12345</Password>
+   </Information>
+   <Information ID = "A2">
+      <Username>John</Username>
+      <Password>54321</Password>
+   </Information>
+   <Information ID = "A3">
+      <Username>Zeynep</Username>
+      <Password>4242</Password>
+   </Information>
+   <Information ID = "A3">
+      <Username>Mary</Username>
+      <Password>1234</Password>
+   </Information>
+
+</Login>
